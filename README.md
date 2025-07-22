@@ -23,7 +23,7 @@ Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/mwmenu.git
+git clone https://github.com/AubreyMk/mwmenu.git
 ```
 
 2. Navigate to the project directory:
